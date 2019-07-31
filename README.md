@@ -1,0 +1,2 @@
+# LSTM_SentimentAnalysis
+使用LSTM对某电商网站中某个商品的评论进行情感分类
